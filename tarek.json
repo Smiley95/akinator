@@ -1,0 +1,178 @@
+var questions = [
+	"Does he have an italien name?",
+	"Was he nominated for the Oscar 5 times?",
+	"Did he play a role in \"The intern\" movie ? ",
+	"Did he act in \"The Godfather\" movie?",
+	"Is he an african-American actor? ",
+	"Did he act in \"the persuit of happiness\"? ",
+	"Is he a comidy actor? ",
+	"Did he act in \"Norbit\"? ",
+	"Did he act in \"Bigmama\"?",
+	"Did he act in \"Medea\"?",
+	"Did he act in \"Million dollar baby\"?",
+	"Did he act in \"Snakes on a plane\"?",
+	"Did he act in \"the equaliser\"?",
+	"Did he act in \"the stepbrothers\"? ",
+	"Did he act in the\"Mask\"?",
+	"Did he act in \"Self control\"?",
+	"Did he act in \"Cast away\"?",
+	"Did he act in \"Pirates of the Caribbean\"?",
+	"Did he act in \"Mr. & Mrs.Smith\"?",
+	"Did he act in \"Mystic River\"?"
+]
+var actors[
+	{
+		"name" : "Leonardo DiCaprio",
+		"movie" : "",
+		"oscar5" : "yes",
+		"mtype" : "",
+		"bORwORit" : "italien"
+	}
+	{
+		"name" : "Robert De Niro",
+		"movie" : "the intern",
+		"oscar5" : "no",
+		"mtype" : "",
+		"bORwORit" : "italien"
+	}
+	{
+		"name" : "Al Pacino",
+		"movie" : "the Godfather",
+		"oscar5" : "no",
+		"mtype" : "",
+		"bORwORit" : "italien"
+	}
+	{
+		"name" : "Sylvester Stallone",
+		"movie" : "",
+		"oscar5" : "no",
+		"mtype" : "",
+		"bORwORit" : "italien"
+	}
+	{
+		"name" : "Will Smith",
+		"movie" : "the persuit of happiness",
+		"oscar5" : "no",
+		"mtype" : "",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Eddy Murphy",
+		"movie" : "Norbit",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Martin Lawrence",
+		"movie" : "Bigmama",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Tyler Perry",
+		"movie" : "Medea",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Kevin hart ",
+		"movie" : "",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Morgen Freeman",
+		"movie" : "Million dollar baby",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Samuel L.Jackson",
+		"movie" : "Snakes on a plane",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Denzel washington ",
+		"movie" : "the equaliser",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Jamie Foxx ",
+		"movie" : "",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "black"
+	}
+	{
+		"name" : "Will Ferrel",
+		"movie" : "the stepbrothers",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Jim Carrey",
+		"movie" : "Mask",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Jack Nicholson",
+		"movie" : "Self control",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Adam Sendler",
+		"movie" : "",
+		"oscar5" : "no",
+		"mtype" : "comedy",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Johnny Depp",
+		"movie" : "Pirates of the Caribbean",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Brad Pitt",
+		"movie" : "Mr. & Mrs.Smith",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Sean Penn",
+		"movie" : "Mystic River",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Bradly Cooper",
+		"movie" : "",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "white"
+	}
+	{
+		"name" : "Tom Hanks",
+		"movie" : "Cast away",
+		"oscar5" : "no",
+		"mtype" : "drama",
+		"bORwORit" : "white"
+	}
+]
